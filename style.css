@@ -1,0 +1,11 @@
+.key{
+    width: 100px;
+    height: 40px;
+}
+
+.display{
+    width: 304px;
+    height: 40px;
+    text-align: right;
+}
+
